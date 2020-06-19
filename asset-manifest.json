@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/SocialNetwork/static/css/main.e98700f0.chunk.css",
+    "main.js": "/SocialNetwork/static/js/main.1031f011.chunk.js",
+    "main.js.map": "/SocialNetwork/static/js/main.1031f011.chunk.js.map",
+    "runtime-main.js": "/SocialNetwork/static/js/runtime-main.9bf3549e.js",
+    "runtime-main.js.map": "/SocialNetwork/static/js/runtime-main.9bf3549e.js.map",
+    "static/js/2.4560c424.chunk.js": "/SocialNetwork/static/js/2.4560c424.chunk.js",
+    "static/js/2.4560c424.chunk.js.map": "/SocialNetwork/static/js/2.4560c424.chunk.js.map",
+    "static/css/3.e96cc935.chunk.css": "/SocialNetwork/static/css/3.e96cc935.chunk.css",
+    "static/js/3.2d086e38.chunk.js": "/SocialNetwork/static/js/3.2d086e38.chunk.js",
+    "static/js/3.2d086e38.chunk.js.map": "/SocialNetwork/static/js/3.2d086e38.chunk.js.map",
+    "static/css/4.61af993a.chunk.css": "/SocialNetwork/static/css/4.61af993a.chunk.css",
+    "static/js/4.dc5c51d0.chunk.js": "/SocialNetwork/static/js/4.dc5c51d0.chunk.js",
+    "static/js/4.dc5c51d0.chunk.js.map": "/SocialNetwork/static/js/4.dc5c51d0.chunk.js.map",
+    "index.html": "/SocialNetwork/index.html",
+    "precache-manifest.b781ff34bb44469aed8575e618b58d85.js": "/SocialNetwork/precache-manifest.b781ff34bb44469aed8575e618b58d85.js",
+    "service-worker.js": "/SocialNetwork/service-worker.js",
+    "static/css/3.e96cc935.chunk.css.map": "/SocialNetwork/static/css/3.e96cc935.chunk.css.map",
+    "static/css/4.61af993a.chunk.css.map": "/SocialNetwork/static/css/4.61af993a.chunk.css.map",
+    "static/css/main.e98700f0.chunk.css.map": "/SocialNetwork/static/css/main.e98700f0.chunk.css.map",
+    "static/js/2.4560c424.chunk.js.LICENSE.txt": "/SocialNetwork/static/js/2.4560c424.chunk.js.LICENSE.txt",
+    "static/media/preloader2.gif": "/SocialNetwork/static/media/preloader2.c863daf9.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9bf3549e.js",
+    "static/js/2.4560c424.chunk.js",
+    "static/css/main.e98700f0.chunk.css",
+    "static/js/main.1031f011.chunk.js"
+  ]
+}
